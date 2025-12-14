@@ -1,0 +1,6 @@
+@WebFamilyHomeApi_HostAddress = http://localhost:5187
+
+GET {{WebFamilyHomeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
